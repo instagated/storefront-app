@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242981098718",
+    "project_id": "modern-binder-427616-j6",
+    "storage_bucket": "modern-binder-427616-j6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242981098718:android:6fb897a1bbf87bbbf01e4f",
+        "android_client_info": {
+          "package_name": "com.storefrontapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnifG4mqccEiU2lvkXyK3tkTy7m9pBEQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

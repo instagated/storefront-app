@@ -40,6 +40,9 @@
         "country-locale-map": "^1.9.0",
         "date-fns": "^3.3.1",
         "deprecated-react-native-prop-types": "^5.0.0",
+        "error-stack-parser": "^2.1.4",
+        "expo": "^51.0.17",
+        "expo-dev-client": "^4.0.19",
         "hermes-engine": "^0.11.0",
         "i18n-js": "^3.9.2",
         "inflector-js": "^1.0.1",
@@ -58,7 +61,7 @@
         "react-native-calendars": "^1.1303.0",
         "react-native-camera": "^4.2.1",
         "react-native-collapsible": "^1.6.1",
-        "react-native-config": "^1.5.1",
+        "react-native-config": "^1.5.2",
         "react-native-country-codes-picker": "^2.3.5",
         "react-native-credit-card-input-plus": "^0.4.7",
         "react-native-device-info": "^10.12.0",
@@ -101,6 +104,7 @@
         "socketcluster-client": "^19.1.0",
         "tailwind-rn": "^3.0.1",
         "tailwindcss": "^2.2.4",
+        "update": "^0.7.4",
         "uuid": "^9.0.1"
     },
     "devDependencies": {
